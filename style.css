@@ -1,0 +1,213 @@
+.blue {
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 720px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    
+  }
+  
+  
+
+
+  .red1 {
+    background: rgb(247, 67, 193);
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    left: 5px;
+    top: 0px;
+  }
+
+  
+
+
+
+
+
+
+  .red2 {
+    background: rgb(94, 67, 247);
+    width: 40px;
+    height: 320px;
+    position: absolute;
+    left: 30px;
+    top: 60px;
+  }
+  
+  .red3 {
+    background: rgb(181, 67, 247);
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+    top: 64px;
+  }
+  
+  .red4 {
+    background: rgb(67, 247, 193);
+    width: 200px;
+    height: 230px;
+    position: absolute;
+    left: 77px;
+    top: 170px;
+  }
+  
+  .red5 {
+    background: rgb(231, 56, 56);
+    width: 200px;
+    height: 160px;
+    position: absolute;
+    left: 30px;
+    top: 410px;
+  }
+
+  .red6 {
+    background: rgb(231, 56, 216);
+    width: 230px;
+    height: 200px;
+    position: absolute;
+    left: 300px;
+    top: 220px;
+  }
+
+  .red16 {
+    background: rgb(56, 231, 143);
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    left: 310px;
+    top: 67px;
+  }
+
+  .red17 {
+    background: rgb(27, 105, 156);
+    width: 170px;
+    height: 150px;
+    position: absolute;
+    left: 310px;
+    top: 430px;
+  }
+  .red7 {
+    background: rgb(97, 37, 79);
+    width: 200px;
+    height: 500px;
+    position: absolute;
+    left: 550px;
+    top: 60px;
+  }
+
+  .red8 {
+    background: rgb(168, 65, 141);
+    width: 200px;
+    height: 250px;
+    position: absolute;
+    left: 760px;
+    top: 60px;
+  }
+  .red9 {
+    background: rgb(136, 125, 133);
+    width: 200px;
+    height: 250px;
+    position: absolute;
+    left: 760px;
+    top: 315px;
+  }
+
+  .red10 {
+    background: rgb(47, 180, 180);
+    width: 60px;
+    height: 473px;
+    position: absolute;
+    left: 970px;
+    top: 50px;
+  }
+
+  .red11 {
+    background: rgb(219, 131, 208);
+    width: 60px;
+    height: 536px;
+    position: absolute;
+    left: 1036px;
+    top: 63px;
+  }
+
+  .red12 {
+    background: rgb(183, 76, 255);
+    width: 60px;
+    height: 474px;
+    position: absolute;
+    left: 1102px;
+    top: 50px;
+  }
+
+
+  .red13 {
+    background: rgb(240, 214, 158);
+    width: 60px;
+    height: 510px;
+    position: absolute;
+    left: 1169px;
+    top: 63px;
+  }
+
+  .red14 {
+    background: rgb(158, 217, 240);
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    left: 1234px;
+    top: 55px;
+  }
+  .red15 {
+    background: rgb(247, 67, 193);
+    width: 51px;
+    height: 500px;
+    position: absolute;
+    left: 1300px;
+    top: 55px;
+  }
+
+  .red18 {
+    background: rgb(247, 67, 193);
+    width: 100%;
+    height: 60px;
+    position: absolute;
+    left: 0px;
+    top: 75%;
+  }
+
+  .red19 {
+    background: rgb(247, 67, 193);
+    width: 51px;
+    height: 500px;
+    position: absolute;
+    left: 0px;
+    top: 65px;
+  }
+
+  .red29 {
+    background: rgb(250, 250, 250);
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    
+    left: 0px;
+    top: 0px;
+    text-align: center;
+    table-layout: fixed;
+    
+  }
+
+
+  .red30 {
+    background: rgb(19, 183, 189);
+    width: 60px;
+    height: 66px;
+    position: absolute;
+    
+    left: 1286px;
+    top: 500px;
+    
+  }
